@@ -11,7 +11,7 @@ public class C10 {
 		int high = a.length - 1;
 
 		while (low <= high) {
-			int mid = (low + high) / 2; // Can overflows!
+			int mid = (low + high) / 2; // Can overflow!
 			int midVal = a[mid];
 
 			if (midVal < key)
