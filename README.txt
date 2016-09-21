@@ -1,6 +1,6 @@
-				Arithmétique des ordinateurs et calculs en haute précision
-					Fonenantsoa Maurica, LIM Université de La Réunion
-					   TechEvent 23 sept 2016, St Denis, La réunion
+	Arithmétique des ordinateurs et calculs en haute précision
+	    Fonenantsoa Maurica, LIM Université de La Réunion
+	       TechEvent 23 sept 2016, St Denis, La réunion
 
 
 ============
@@ -32,8 +32,8 @@ SOLUTIONS
      
 4) Pour les nombres réels, utiliser des flottants de
    précision personnalisable, cad nombre de décimaux défini (ex Apflaot) ou type défini fixe (ex MPFR).
-	 - : determiner le nombre de décimaux ou le bon type pour garantir la precision
-	 	 du résultat final peut être difficile
+     - : determiner le nombre de décimaux ou le bon type pour garantir la precision
+	 du résultat final peut être difficile
 	 	 
 5) Faire du calcul symbolique.
      + : l'analyse d'erreur ne considère que la formule finale
