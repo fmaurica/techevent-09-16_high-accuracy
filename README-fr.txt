@@ -1,6 +1,6 @@
-	Arithmétique des ordinateurs et calculs en haute précision
-	    Fonenantsoa Maurica, LIM Université de La Réunion
-	       TechEvent 23 sept 2016, St Denis, La réunion
+	     Arithmétique des ordinateurs et calculs en haute précision
+	         Fonenantsoa Maurica, LIM Université de La Réunion
+	            TechEvent 23 sept 2016, St Denis, La réunion
 
 
 ============
