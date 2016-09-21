@@ -31,7 +31,7 @@ SOLUTIONS
      - : couteux en mémoire et en temps
      
 4) Pour les nombres réels, utiliser des flottants de
-   précision personnalisable, cad nombre de décimaux défini (ex Apflaot) ou type défini fixe (ex MPFR).
+   précision personnalisable, cad nombre de décimaux défini (ex Apfloat) ou type défini fixe (ex MPFR).
      - : determiner le nombre de décimaux ou le bon type pour garantir la precision
 	 du résultat final peut être difficile
 	 	 
