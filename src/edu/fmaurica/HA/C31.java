@@ -1,6 +1,6 @@
 package edu.fmaurica.HA;
 
-public class C31a {
+public class C31 {
 
 	/*
 	 * This code killed people!
@@ -15,10 +15,10 @@ public class C31a {
 		try {
 
 			float t = 0;
-			float d = 1/10f; // In binary: 0.1111... Cannot be exactly represented!
-			for (int i = 0; i < 20; i++) {
+			float d = 1/3f; // 0.333... in decimal, 0.0101... in binary
+			for (int i = 0; i < 13; i++) {
 				System.out.println(t);
-				Thread.sleep(100);
+				Thread.sleep(333);
 				t = t + d; // There are rounding errors!
 			}
 
